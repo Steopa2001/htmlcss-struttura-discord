@@ -21,6 +21,7 @@ header {
   width: 1200px;
 }
 
+/* UTILITY */
 .border {
   border: 2px dotted black;
 }
@@ -45,6 +46,7 @@ header {
   padding: 6px;
 }
 
+/* MAIN */
 .container {
   background-color: blue;
   height: 400px;
@@ -97,4 +99,19 @@ header {
   background-color: rgb(0, 180, 240);
   width: 800px;
   height: 380px;
+}
+
+.cont-bg-grey {
+  background-color: rgb(194, 191, 191);
+  display: flex;
+  height: 600px;
+  max-width: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-2 {
+  background-color: green;
+  width: 400px;
+  height: 300px;
 }
