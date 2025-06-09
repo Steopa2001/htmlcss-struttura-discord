@@ -1,4 +1,4 @@
-**Descrizione**
+Descrizione
 
 Riproduzione di un vero sito: Discord
 Partiamo dal realizzare la struttura base del nostro tema solo con i blocchi colorati senza inserire i veri testi, img etc. o pensare al dettaglio.
@@ -8,4 +8,3 @@ Cercate di creare delle classi il più riutilizzabili possibile.
 Numero minimo di push: 10
 
 Buon lavoro!
-
