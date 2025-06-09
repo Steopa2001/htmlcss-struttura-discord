@@ -4,8 +4,6 @@
   box-sizing: border-box;
 }
 
-
-
 /*HEADER*/
 
 header {
@@ -47,3 +45,16 @@ header {
   padding: 6px;
 }
 
+.container {
+  background-color: blue;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box-2 {
+  background-color: rgb(241, 135, 153);
+  height: 320px;
+  width: 800px;
+}
