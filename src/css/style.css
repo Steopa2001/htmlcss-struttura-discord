@@ -104,7 +104,7 @@ header {
 .cont-bg-grey {
   background-color: rgb(194, 191, 191);
   display: flex;
-  height: 600px;
+  height: 1280px;
   max-width: auto;
   justify-content: center;
   align-items: center;
@@ -112,6 +112,7 @@ header {
 
 .container-2 {
   background-color: green;
-  width: 400px;
-  height: 300px;
+  width: 1200px;
+  height: 1200px;
 }
+
